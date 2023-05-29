@@ -24,8 +24,8 @@ export default function Form(){
             <TextInput style={styles.input} placeholder="Digite seu email" keyboardType="numeric"/>
             
 
-            <TouchableOpacity style={styles.buttonCalculator} onPress={() => {validationMedia()}}>
-            <Text style={styles.textButtonCalculator}> </Text> ENVIAR INFORMAÇÕES
+            <TouchableOpacity style={styles.buttonCalculator} onPress={() => {}}>
+            <Text style={styles.textButtonCalculator}>ENVIAR INFORMAÇÕES </Text>
             </TouchableOpacity>
 
 
